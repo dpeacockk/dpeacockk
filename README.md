@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpeacockk
 - 👀 I’m interested in learning code and trying fun projects 
-- 🌱 I’m currently learning Python, C++, HTML, CSS, JS
+- 🌱 I’m currently learning Python, C++, HTML, CSS
 - 📫 How to reach me: dpeacock@umich.edu
 
 <!---
